@@ -1,5 +1,5 @@
 # E-Sportify
-![image](https://github.com/user-attachments/assets/18ba0585-ece9-41b9-b98a-7eac508b30f9)
+![image](https://github.com/user-attachments/assets/856e9a9e-b946-410d-9ce9-56fdd5e07ea3)
 
 ## Overview
 E-Sportify is an innovative project aimed at identifying key influencers in the rapidly evolving Esports ecosystem. By leveraging advanced analytical techniques such as PageRank and URL Ranking Algorithms, this project provides a comprehensive framework for influencer analysis, integrating multiple metrics to uncover significant insights into influencer dynamics.

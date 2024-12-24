@@ -10,10 +10,10 @@ E-Sportify is an innovative project aimed at identifying key influencers in the 
 - [Features](#features)
 - [Power BI Dashboard](#power-bi-dashboard)
 
-#
+
 ## Introduction
 The Esports industry is experiencing exponential growth, with influencer marketing becoming increasingly critical for brand engagement and audience reach. Traditional methodologies for influencer identification often fall short, relying on simplistic follower counts and surface-level engagement metrics. E-Sportify addresses these challenges by implementing advanced algorithmic techniques that provide a nuanced understanding of influencer networks.
-#
+
 ### Problem Statement
 Current methods for evaluating influencers lack the depth needed to capture the complexities of the Esports ecosystem. This project aims to develop a sophisticated, data-driven solution that:
 - Implements advanced algorithmic techniques.

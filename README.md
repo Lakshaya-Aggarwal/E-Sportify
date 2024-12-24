@@ -43,3 +43,5 @@ The Power BI dashboard serves as a dynamic visualization platform that transform
 - Access real-time updates on metrics.
 - Visualize network relationships through interactive graphs.
 
+![image](https://github.com/user-attachments/assets/b224771f-3904-46b4-b9cf-51af5059775f)
+
